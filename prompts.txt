@@ -1,0 +1,90 @@
+FUTURE_PE_03 – SEO PROMPT ENGINEERING — FULL PROMPT SUITE
+
+ PROMPT 1: ADVANCED PILLAR BLOG PROMPT
+Role:
+  Act as a senior SEO strategist and conversion-focused blog writer.
+  Create a high-ranking pillar blog for a local business.
+
+Business Details:
+  * Business Name : Urban Bites Café
+  * Location      : Durban
+  * Audience      : Students and young professionals
+  * USP           : Affordable gourmet meals with fast service
+
+SEO Requirements:
+  * Primary keyword   : "Affordable café in Durban"
+  * Secondary keywords: "Cheap eats Durban", "Best cafés Durban",
+                        "Budget-friendly restaurants Durban"
+  * Search intent     : Local + Transactional
+
+Format Requirements:
+  * 1000–1200 words
+  * H1, H2, H3 structure
+  * Strong hook in introduction
+  * Problem → solution structure
+
+Content Must Include:
+  * Why affordability matters to the target audience
+  * What customers struggle with — price vs quality trade-off
+  * Why Urban Bites Café is the solution
+  * Menu highlights with descriptive language
+  * Experience — atmosphere, speed, and convenience
+  * Internal links to all 4 supporting blogs
+  * Strong CTA with urgency ("skip the wait", "visit today")
+
+Tone:
+  * Human and engaging
+  * Modern — avoid robotic phrases
+  * Optimised for mobile readability
+
+ PROMPT 2: ADVANCED SUPPORTING BLOG PROMPT 
+Role:
+  Act as an SEO content writer specialising in local SEO.
+  Write a supporting blog that targets a specific long-tail keyword.
+
+Requirements:
+  * 600–800 words per supporting blog
+  * Clear H1, H2, H3 heading structure
+  * Focus on one search intent — informational or local
+  * Include Durban naturally throughout the content
+  * Link back to the pillar blog
+  * Strong CTA driving readers to Urban Bites Café
+  * Helpful, specific, and practical — not generic
+
+
+PROMPT 3: SEO CONTENT CLUSTER STRATEGY PROMPT 
+
+Role:
+  Act as an expert SEO strategist.
+  Generate a full content cluster for a café in Durban.
+
+Cluster Output Includes:
+  * 1 pillar blog with the primary broad keyword
+  * 4 supporting blogs with individual long-tail keywords
+  * Search intent for each — informational, transactional, local
+  * Internal linking map showing which blogs link to which
+  * Strong local SEO focus throughout
+  * Logical content hierarchy for real-world Google ranking
+
+Content Cluster Map:
+ 
+  Blog                                  | Keyword              | Intent               | Type
+  ---------------------------------------------------------------
+  The Best Affordable Cafés in Durban   | Affordable café      | Local + Transactional| PILLAR
+                                        | in Durban            |                      |
+  ---------------------------------------------------------------
+  Eating in Durban on a Student Budget  | Cheap eats Durban    | Informational        | Support
+                                        | students             |                      |
+  ---------------------------------------------------------------
+  Budget Restaurants Near Durban        | Budget restaurants   | Local                | Support
+  Universities                          | near universities    |                      |
+  ---------------------------------------------------------------
+  Hidden Cheap Eats in Durban           | Hidden cheap eats    | Informational        | Support
+                                        | Durban               |                      |
+  ---------------------------------------------------------------
+  Why Urban Bites Café is Durban's      | Best café Durban     | Local + Transactional| Support
+  Best Secret                           | young professionals  |                      |
+  ---------------------------------------------------------------
+
+
+
